@@ -1,0 +1,2 @@
+# Cloudflare Pages 리다이렉트. 루트는 한국어로 (JS 언어 감지는 src/pages/index.astro 가 폴백으로 처리).
+/  /ko/  302
